@@ -7,7 +7,7 @@ I pay close attention to UI/UX details and overall application flow to ensure sm
 I enjoy continuously learning new technologies, strengthening my core programming skills, and turning ideas into real-world projects — especially creative and unconventional ones.
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1gH4pVyK408iMVzOPtF1DWwVpKpVETu5U/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1-gE0_J3gJQ_foZmdY0EdlYimLVTm2fVm/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
   </p>
 
